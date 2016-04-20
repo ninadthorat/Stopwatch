@@ -16,7 +16,7 @@ public class StopwatchActivity extends Activity{
     private int seconds = 0;
     private boolean running;
     private boolean wasRunning;
-
+    //edit via github;
     //small change nklj
     //adding "bug fix"
 
