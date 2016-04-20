@@ -16,12 +16,14 @@ public class StopwatchActivity extends Activity{
     private int seconds = 0;
     private boolean running;
     private boolean wasRunning;
+
     //small change nklj
     //adding "bug fix"
 
     //change 1
 
     //change 2
+
     protected void onCreate(Bundle savedInstance){
         super.onCreate(savedInstance);
         setContentView(R.layout.activity_stopwatch);
