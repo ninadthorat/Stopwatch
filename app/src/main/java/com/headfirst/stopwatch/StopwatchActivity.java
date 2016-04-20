@@ -17,6 +17,7 @@ public class StopwatchActivity extends Activity{
     private boolean running;
     private boolean wasRunning;
     //edit via github;
+    //edit via github for fect test
     //small change nklj
     //adding "bug fix"
 
