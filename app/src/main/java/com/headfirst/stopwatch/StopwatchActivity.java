@@ -17,7 +17,7 @@ public class StopwatchActivity extends Activity{
     private boolean running;
     private boolean wasRunning;
     //small change nklj
-    kasdf;kjadslfk
+    //adding "bug fix"
     protected void onCreate(Bundle savedInstance){
         super.onCreate(savedInstance);
         setContentView(R.layout.activity_stopwatch);
